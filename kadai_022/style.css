@@ -1,5 +1,5 @@
 
-h1, p, #body {
+h1, p, body {
   margin: 0;
 }
 p, a {
@@ -50,6 +50,9 @@ h2 {
 footer {
   background-color: rgb(244, 79, 79);
   text-align: center;
+}
+a {
+  color: rgb(255, 255, 255);
 }
 a:link {
   color: rgb(255, 255, 255);
